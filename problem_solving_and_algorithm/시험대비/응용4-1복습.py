@@ -1,0 +1,11 @@
+rap=['홍일동', '홍이동', '홍삼동']
+rap.append('홍사동')
+print(rap)
+rap.insert(2,'홍이동')
+print(rap)
+print(rap.count('홍이동'))
+rap.reverse()
+print(rap)
+rap.remove('홍일동')
+print(rap)
+print(len(rap))
