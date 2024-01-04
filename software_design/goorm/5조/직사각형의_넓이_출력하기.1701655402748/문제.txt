@@ -1,0 +1,105 @@
+직사각형의 넓이 출력하기제출완료
+100점
+[문제]
+
+사용자로부터 직사각형의 가로와 세로 길이를 입력 받아 넓이를 출력하는 프로그램을 작성하시오.
+
+[조건]:
+
+1) 클래스를 사용하여 문제를 해결해야 한다.
+
+2) 클래스는 최소한 하나 이상의 멤버 변수와 멤버 함수를 가져야 한다.
+
+3) 사용자로부터 입력 받아 클래스를 활용해 문제를 해결해라.
+
+4) 입력 받는 가로와 세로 길이는 100 이하의 양수여야 한다. (잘못 입력 시 재입력)
+
+입/출력 예시
+:
+공백
+:
+줄바꿈
+:
+탭
+예시 1
+입력
+9
+3
+출력
+Enterthewidthoftherectangle:Entertheheightoftherectangle:
+Areaoftherectangle:27
+RectangleInformation:
+Width:9,Height:3
+예시 2
+입력
+-3
+4
+7
+출력
+Enterthewidthoftherectangle:Enteritagain
+Enterthewidthoftherectangle:Entertheheightoftherectangle:
+Areaoftherectangle:28
+RectangleInformation:
+Width:4,Height:7
+예시 3
+입력
+0
+3
+-8
+6
+출력
+Enterthewidthoftherectangle:Enteritagain
+Enterthewidthoftherectangle:Entertheheightoftherectangle:Enteritagain
+Entertheheightoftherectangle:
+Areaoftherectangle:18
+RectangleInformation:
+Width:3,Height:6
+예시 4
+입력
+101
+99
+100
+출력
+Enterthewidthoftherectangle:Enteritagain
+Enterthewidthoftherectangle:Entertheheightoftherectangle:
+Areaoftherectangle:9900
+RectangleInformation:
+Width:99,Height:100
+예시 5
+입력
+-3
+103
+37
+147
+25
+출력
+Enterthewidthoftherectangle:Enteritagain
+Enterthewidthoftherectangle:Enteritagain
+Enterthewidthoftherectangle:Entertheheightoftherectangle:Enteritagain
+Entertheheightoftherectangle:
+Areaoftherectangle:925
+RectangleInformation:
+Width:37,Height:25
+예시 6
+입력
+72.8
+93.2
+출력
+Enterthewidthoftherectangle:Entertheheightoftherectangle:
+Areaoftherectangle:6784.96
+RectangleInformation:
+Width:72.8,Height:93.2
+예시 7
+입력
+-32.5
+32.5
+837.7
+11.6
+출력
+Enterthewidthoftherectangle:Enteritagain
+Enterthewidthoftherectangle:Entertheheightoftherectangle:Enteritagain
+Entertheheightoftherectangle:
+Areaoftherectangle:377
+RectangleInformation:
+Width:32.5,Height:11.6
+⋇ 입출력 형식을 잘 지켜주세요

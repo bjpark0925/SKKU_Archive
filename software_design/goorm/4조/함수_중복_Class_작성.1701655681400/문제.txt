@@ -1,0 +1,53 @@
+함수 중복 Class 작성제출완료
+100점
+﻿문제
+
+아래의 조건을 바탕으로 각각의 Class를 구현하세요.
+- 학생 클래스 (Student):
+Student 클래스는 학생의 이름, 학번, 성적을 저장합니다.
+모든 멤버 변수는 private으로 선언되어야 합니다.
+기본 생성자를 통해 이름을 "Unknown", 학번을 0, 성적을 0.0으로 초기화합니다.
+이름, 학번, 성적을 받는 생성자를 작성하세요.
+- 성적 입력 함수 중복 정의:
+inputGrade() 함수를 정의하세요.
+정수로 성적을 입력받는 함수와, 실수로 성적을 입력받는 함수를 중복 정의하세요.
+- 성적 출력 함수 중복 정의:
+displayGrade() 함수를 정의하세요.
+학생의 성적을 등급 형태로 출력하는 함수와, 성적을 실수 형태로 출력하는 함수를 중복 정의하세요.
+- 학생 정보 출력 함수:
+displayStudentInfo() 함수를 작성하여 학생의 정보와 성적을 출력하세요.
+입력
+별도의 입력은 없습니다. 다음 main 함수에 적혀있는 부분이 그 역할을 대신합니다.
+출력
+학생의 정보를 출력합니다.
+실행 화면 예시
+:
+공백
+:
+줄바꿈
+:
+탭
+StudentInformation:
+Name:Alice
+StudentID:101
+
+StudentInformation:
+Name:Bob
+StudentID:102
+입/출력 예시
+:
+공백
+:
+줄바꿈
+:
+탭
+예시 1
+출력
+StudentInformation:
+Name:Alice
+StudentID:101
+
+StudentInformation:
+Name:Bob
+StudentID:102
+⋇ 입출력 형식을 잘 지켜주세요

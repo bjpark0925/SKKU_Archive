@@ -1,0 +1,55 @@
+대문자 출력제출완료
+100점
+영문 문자열(공백포함)을 입력 받고, 소문자로 입력된 경우 대문자로 바꿔서 출력하라.
+
+** Result 출력 후 바로 함수가 종료되게 해야 정상 채점됩니다.
+
+실행 화면 예시
+:
+공백
+:
+줄바꿈
+:
+탭
+Enterastring(or'exit'):a
+Result:A
+Enterastring(or'exit'):basic
+Result:BASIC
+Enterastring(or'exit'):aBc123!@#
+Result:ABC123!@#
+Enterastring(or'exit'):nicetomeetyou
+Result:NICETOMEETYOU
+Enterastring(or'exit'):
+Result:
+Enterastring(or'exit'):exit
+programendedwithexitcode:0
+입/출력 예시
+:
+공백
+:
+줄바꿈
+:
+탭
+예시 1
+입력
+a
+출력
+A
+예시 2
+입력
+basic
+출력
+BASIC
+예시 3
+입력
+easy!
+예시 4
+입력
+number12345
+예시 5
+입력
+aBc123!@#
+예시 6
+입력
+nicetomeetyou
+⋇ 입출력 형식을 잘 지켜주세요
